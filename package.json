@@ -1,0 +1,26 @@
+{
+  "name": "rss-kindle-sls",
+  "version": "1.0.0",
+  "description": "RSS Feed to Kindle on serverless architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilnarain/rss-kindle-sls.git"
+  },
+  "keywords": [
+    "rss",
+    "kindle",
+    "serverless",
+    "lambda",
+    "aws"
+  ],
+  "author": "Sahil Narain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahilnarain/rss-kindle-sls/issues"
+  },
+  "homepage": "https://github.com/sahilnarain/rss-kindle-sls#readme"
+}
